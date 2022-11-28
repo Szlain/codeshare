@@ -1,0 +1,1 @@
+export function isItCheese(cheese: string) { return cheese === 'cheese' }

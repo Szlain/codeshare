@@ -1,0 +1,7 @@
+{
+    "extends": "@tvg/fe-config",
+    "include": [
+        "*",
+        "**/*"
+    ]
+}

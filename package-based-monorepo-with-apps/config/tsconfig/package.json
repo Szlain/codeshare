@@ -1,0 +1,9 @@
+{
+    "name": "@tvg/fe-config",
+    "version": "0.0.0",
+    "main": "tsconfig.base.json",
+    "devDependencies": {},
+    "scripts": {
+      "build": "tsc index.ts --outDir dist"
+    }
+  }
